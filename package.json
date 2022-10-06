@@ -9,11 +9,11 @@
   },
   "private": false,
   "dependencies": {
-    "@prisma/client": "^4.4.0",
+    "axios": "^1.0.0",
+    "dotenv": "^16.0.3",
     "express": "^4.18.1"
   },
   "devDependencies": {
-    "nodemon": "^2.0.20",
-    "prisma": "^4.4.0"
+    "nodemon": "^2.0.20"
   }
 }
